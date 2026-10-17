@@ -1,5 +1,5 @@
 ---
-title: 'Hello, X-CODER'
+title: 'Hello, Xlord'
 date: 2026-09-03 20:00:00
 tags:
   - Hexo
@@ -15,7 +15,7 @@ sticky: 1
 
 ## 这个博客是什么
 
-X-CODER(我)的技术博客。用于记录我的故事awa。
+Xlord(我)的技术博客。用于记录我的故事awa。
 
 ## 技术栈
 

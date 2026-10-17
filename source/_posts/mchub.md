@@ -30,7 +30,7 @@ description: 'MChub —— SulfurLauncher 的升级形态，一个开源、跨�
 
 | 维度 | SulfurLauncher（旧） | MChub（新） |
 | --- | --- | --- |
-| 组织 / 仓库 | `X-CODER-ocs/SulfurBlockLauncher` | `CodeHub-develop/MChub` |
+| 组织 / 仓库 | `XLord-Heliukum/SulfurBlockLauncher` | `CodeHub-develop/MChub` |
 | 官网 | `x-coder-ocs.github.io/SulfurBlockLauncher` | `codehub-develop.github.io/MChub` |
 | 调起协议 | `sl://` | **`mchub://`** |
 | 许可证 | GPL-3.0-or-later | **AGPL-3.0** |

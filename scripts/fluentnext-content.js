@@ -77,7 +77,7 @@ hexo.extend.generator.register('fluentnext-content', function (locals) {
 
   const data = {
     site: {
-      title: site.title || 'X-CODER',
+      title: site.title || 'Xlord',
       description: site.description || '',
       url: site.url || '',
       menu: (site.fluentnext && site.fluentnext.menu) || []

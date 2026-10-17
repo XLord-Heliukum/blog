@@ -1,6 +1,6 @@
-# X-CODER Blog
+# Xlord Blog
 
-X-CODER / OCS 团队的技术博客，基于 [Hexo](https://hexo.io/) + [NexT](https://theme-next.js.org/) 主题构建。
+Xlord / OCS 团队的技术博客，基于 [Hexo](https://hexo.io/) + [NexT](https://theme-next.js.org/) 主题构建。
 
 线上地址：https://x-coder-ocs.github.io/blog
 

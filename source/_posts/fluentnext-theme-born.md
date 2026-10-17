@@ -22,7 +22,7 @@ description: '把博客前端从 NexT 换成 Blazor WASM —— Hexo 退到「�
 
 ![NexT 暗色方案](images/original-next-theme.png)
 
-> 换主题前的最后一眼:左边是「X-CODER / 仓颉的博客!」绿牌,下面挂着首页/关于/标签/分类/归档/搜索。右边是文章列表 + 头像资料卡。整体很"博客",很"程序员"。
+> 换主题前的最后一眼:左边是「Xlord / 仓颉的博客!」绿牌,下面挂着首页/关于/标签/分类/归档/搜索。右边是文章列表 + 头像资料卡。整体很"博客",很"程序员"。
 
 然后我就把它整个推翻了(并不是它不好看,是手痒 qwq)。
 
@@ -216,7 +216,7 @@ hexo.extend.generator.register('fluentnext-content', function (locals) {
 
 最后对比图放这里——**这是换之前的 NexT**(就是开头那张),而你正在看的,就是换之后的 FluentNext。哪个更好看?各有各的味道;但 FluentNext 至少**是我亲手用 C# 写的**——这就够了 awa~
 
-> 本文提到的所有源码都在 `X-CODER-ocs/blog`(后端)+ `X-CODER-ocs/fluentnext-frontend`(前端)两个仓库。CI 配好的话,改 Markdown 推送就会自动触发前端重新构建并部署。评论区见~
+> 本文提到的所有源码都在 `XLord-Heliukum/blog`(后端)+ `XLord-Heliukum/fluentnext-frontend`(前端)两个仓库。CI 配好的话,改 Markdown 推送就会自动触发前端重新构建并部署。评论区见~
 
 (广?!广?!)
 

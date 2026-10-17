@@ -40,7 +40,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  博客仓库 X-CODER-ocs/blog（内容 + 部署）                  │
+│  博客仓库 XLord-Heliukum/blog（内容 + 部署）                  │
 │                                                         │
 │  source/_posts/*.md      ← 你写文章的地方（不变）          │
 │  source/images/*.png     ← 图片资源（不变）               │
@@ -101,9 +101,9 @@
 ### 5.2 项目位置（待你拍板，推荐 A）
 
 - **A（推荐）：放博客仓库内 `src/FluentNext.Backend/`**
-  - 单仓库，你只管 `X-CODER-ocs/blog`；生成器与文章同仓，路径简单（相对读 `../source/_posts` 写 `../public`）。
+  - 单仓库，你只管 `XLord-Heliukum/blog`；生成器与文章同仓，路径简单（相对读 `../source/_posts` 写 `../public`）。
   - CI 不用额外 checkout 后端仓库。
-- B：独立仓库 `X-CODER-ocs/fluentnext-backend`，CI 同时 checkout 它 + blog + frontend。
+- B：独立仓库 `XLord-Heliukum/fluentnext-backend`，CI 同时 checkout 它 + blog + frontend。
   - 生成器可独立版本化/复用，但多一个仓库要维护。
 
 ### 5.3 输入 / 输出
@@ -159,10 +159,10 @@
 ```json
 {
   "site": {
-    "title": "X-CODER",
-    "description": "X-CODER 的技术博客，分享编程、开发、开源等相关内容。",
+    "title": "Xlord",
+    "description": "Xlord 的技术博客，分享编程、开发、开源等相关内容。",
     "url": "https://x-coder-ocs.github.io/blog",
-    "author": "X-CODER",
+    "author": "Xlord",
     "timezone": "Asia/Shanghai",
     "language": "zh-CN"
   },
@@ -173,7 +173,7 @@
   },
   "feed": {
     "path": "atom.xml",
-    "title": "X-CODER",
+    "title": "Xlord",
     "language": "zh-CN"
   },
   "sitemap": { "path": "sitemap.xml" },

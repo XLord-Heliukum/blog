@@ -45,7 +45,7 @@ license: CC BY 4.0（作者保留权利，允许署名转发与分发）
 
 ### 第 1 步：给仓库装上 Utterances App
 
-打开 [github.com/apps/utterances](https://github.com/apps/utterances)，点 **Install**，把你的博客仓库（`X-CODER-ocs/blog`）授权进去。
+打开 [github.com/apps/utterances](https://github.com/apps/utterances)，点 **Install**，把你的博客仓库（`XLord-Heliukum/blog`）授权进去。
 
 > ⚠️ 这一步很多人会忘。没装 App，访客评论时就没权限往你仓库写 Issue，评论框会转圈圈转到天荒地老。亲身踩过，别问 awa。
 
@@ -59,10 +59,10 @@ comments:
   style: tabs
   active: utterances
 
-# Utterances —— 评论存进 X-CODER-ocs/blog 仓库的 Issues
+# Utterances —— 评论存进 XLord-Heliukum/blog 仓库的 Issues
 utterances:
   enable: true
-  repo: X-CODER-ocs/blog
+  repo: XLord-Heliukum/blog
   issue_term: pathname        # 用文章路径作为 issue 标识
   theme: github-light         # 浅色，与 #4AA26F 主题搭配
 ```

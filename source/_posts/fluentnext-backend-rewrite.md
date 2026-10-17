@@ -67,9 +67,9 @@ description: '上次说 Hexo 退到后台只产 JSON，但那套还是猪肉方�
 
 | 仓库 | 角色 |
 | --- | --- |
-| `X-CODER-ocs/blog`（原 Hexo 仓库） | **只存文章 markdown + 图片 + 验证文件**，不再跑 Hexo |
-| `X-CODER-ocs/fluentnext-frontend` | Blazor WASM 前端（这次一行逻辑没动，只修了个开屏崩） |
-| `X-CODER-ocs/fluentnext-backend` | **新建**：.NET 10 控制台生成器，复刻 Hexo 产出 |
+| `XLord-Heliukum/blog`（原 Hexo 仓库） | **只存文章 markdown + 图片 + 验证文件**，不再跑 Hexo |
+| `XLord-Heliukum/fluentnext-frontend` | Blazor WASM 前端（这次一行逻辑没动，只修了个开屏崩） |
+| `XLord-Heliukum/fluentnext-backend` | **新建**：.NET 10 控制台生成器，复刻 Hexo 产出 |
 
 CI 里现在**只有一个运行时：`dotnet`**。没有 `npm`、`node_modules`、`package-lock.json`，干净得我想哭 awa。
 
@@ -193,7 +193,7 @@ git add . && git commit -m "feat: 新文章" && git push
 
 代价？几乎没有：前端 Blazor 一行没动，文章 Markdown 一行没动，只是换了个"产 JSON 的人"。稳了 qwq。
 
-> 三仓都在 `X-CODER-ocs` 下：`blog`（文章）/ `fluentnext-frontend`（前端）/ `fluentnext-backend`（后端生成器）。评论区见～
+> 三仓都在 `XLord-Heliukum` 下：`blog`（文章）/ `fluentnext-frontend`（前端）/ `fluentnext-backend`（后端生成器）。评论区见～
 
 (广?!广?!)
 

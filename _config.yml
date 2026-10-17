@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: X-CODER
+title: Xlord
 subtitle: '仓颉的博客!'
-description: 'X-CODER 的技术博客，分享编程、开发、开源等相关内容。'
-keywords: X-CODER, 技术, 博客
-author: X-CODER
+description: 'Xlord 的技术博客，分享编程、开发、开源等相关内容。'
+keywords: Xlord, 技术, 博客
+author: Xlord
 language: zh-CN
 timezone: Asia/Shanghai
 
@@ -109,7 +109,7 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # ⚠️ FluentNext 架构：Hexo 仅作「内容后端」，不渲染可见页面。
-# 真站点 UI 由独立仓库 X-CODER-ocs/fluentnext-frontend（Blazor WASM + Fluent UI Blazor）提供，
+# 真站点 UI 由独立仓库 XLord-Heliukum/fluentnext-frontend（Blazor WASM + Fluent UI Blazor）提供，
 # 经 GitHub Actions 把发布产物拷进 public/ 并改写 base href 为 /blog/。
 # 本主题配合 scripts/fluentnext-content.js 仅产出 public/api/content.json（文章/分类/标签/归档/TOC）。
 theme: fluentnext-backend

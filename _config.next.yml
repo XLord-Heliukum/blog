@@ -44,7 +44,7 @@ avatar:
   rotated: true
 
 social:
-  GitHub: https://github.com/X-CODER-ocs || fab fa-github
+  GitHub: https://github.com/XLord-Heliukum || fab fa-github
   # E-Mail: mailto:yourname@example.com || fa fa-envelope
 
 # ---------------------------------------------------------------- Footer
@@ -115,10 +115,10 @@ comments:
   style: tabs
   active: utterances
 
-# Utterances —— 评论存进 X-CODER-ocs/blog 仓库的 Issues
+# Utterances —— 评论存进 XLord-Heliukum/blog 仓库的 Issues
 utterances:
   enable: true
-  repo: X-CODER-ocs/blog
+  repo: XLord-Heliukum/blog
   issue_term: pathname        # 用文章路径作为 issue 标识
   theme: github-light         # 浅色，与 #4AA26F 主题搭配
 
